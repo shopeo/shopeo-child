@@ -1,0 +1,1 @@
+# SHOPEO Child Theme

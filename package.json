@@ -1,0 +1,10 @@
+{
+  "name": "shopeo-child",
+  "version": "0.0.1",
+  "description": "SHOPEO Child Theme",
+  "scripts": {
+  },
+  "author": "SHOPEO",
+  "homepage": "https://shopeo.cn",
+  "license": "MIT"
+}
