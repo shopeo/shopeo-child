@@ -1,1 +1,1 @@
-# SHOPEO Child Theme
+# SHOPEO Child Theme Scaffold
