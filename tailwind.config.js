@@ -1,4 +1,5 @@
 module.exports = {
+    prefix: 'sec-',
     content: [],
     theme: {
         extend: {},
